@@ -20,12 +20,12 @@ public class fbpage {
 
 	public void EnterUsername() {
 		email.clear();
-		email.sendKeys("surya.ankemo1@gmail.com");
+		email.sendKeys("naveench@gmail.com");
 	}
 
 	public void EnterPassword() {
 		pswd.clear();
-		pswd.sendKeys("18@01@1997");
+		pswd.sendKeys("naveen25");
 	}
 
 	public void VerifyLogin() {
